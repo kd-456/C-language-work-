@@ -1,0 +1,2 @@
+"hello" Read a file of English text, and .....print it out one%%^^&@ word per line, all punctuation and
+ non-alpha characters being omitted. hello buddy A4 notes /4 3 delat
